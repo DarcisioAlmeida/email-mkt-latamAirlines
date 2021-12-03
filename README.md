@@ -2,18 +2,19 @@
 
 <h2> Descrição do Projeto </h2>
 <p> - Email criado para um teste de entrevista. </p>
+<p> - Email marketing latam Airlines Black Friday </p>
 <p> - Utilizado modelo em HTML e CSS inline. </p>
-<p> - Instruções via arquivo .psd </p>
+<p> - Layout via arquivo .psd </p>
+<p> - Testes realizados: Outlook app-android | Outlook Desktop | Outlook Web | Gmail app-android | Gmail Web . </p>
 
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas nas aulas e desafios dos projetos:
+As seguintes ferramentas foram usadas no desafio do projeto:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
 
 
 <h3> Habilidades desenvolvidas baseadas nos contéudos de estudos dos seguintes cursos: </h3>
